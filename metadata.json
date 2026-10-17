@@ -1,0 +1,6 @@
+{
+  "name": "DK Fm - Audio Story Streaming",
+  "description": "Stream captivating episodic audio stories, dramas, and audiobooks with seamless playback, resume listening, and creator controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
